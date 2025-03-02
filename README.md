@@ -1,6 +1,6 @@
 # GCP Auto-Scaling and Security Setup
 
-This repository contains the implementation of a **Google Cloud Platform (GCP)** project for creating a **Virtual Machine (VM)**, configuring **auto-scaling policies**, and implementing **security measures** such as **IAM roles** and **firewall rules**. This project was completed as part of the **CSL7510 VCC Jan 2025** assignment.
+This repository contains the implementation of a **Google Cloud Platform (GCP)** project for creating a **Virtual Machine (VM)**, configuring **auto-scaling policies**, and implementing **security measures** such as **IAM roles** and **firewall rules**. This project was completed as part of the **CSL7510 VCC Assignment 2**.
 
 ---
 
